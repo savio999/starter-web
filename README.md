@@ -15,3 +15,7 @@ Purpose is to learn git and implement in future projects.
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+## Copyright
+
+Permission is hereby granted to copy and modify this project. 
