@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- Savio Menezes -- savio.menezes19@gmail.com
 
 # THANKS
 
