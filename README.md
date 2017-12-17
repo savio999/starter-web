@@ -10,6 +10,8 @@ Simple exercise to deploy
 
 ## Purpose
 
+Purpose is to learn git and implement in future projects.
+
 Sample website with plenty of files for demos
 
 ## How to contribute
