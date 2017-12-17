@@ -15,6 +15,7 @@ Purpose is to learn git and implement in future projects.
 Sample website with plenty of files for demos
 
 ## How to contribute
+Fork this repository and then do pull.
 
 ## Copyright
 
