@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
-Simple exercise to deploy
+This is git tutorial.
 
 ## Purpose
 
