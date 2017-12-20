@@ -10,7 +10,7 @@ This is git tutorial.
 
 ## Purpose
 
-Purpose is to learn git and implement in future projects.
+Purpose is to learn git and implement in future projects. Inserting line from master branch.
 
 Sample website with plenty of files for demos
 
