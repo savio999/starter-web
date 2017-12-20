@@ -19,4 +19,6 @@ Fork this repository and then do pull.
 
 ## Copyright
 
-Permission is hereby granted to copy and modify this project. 
+Permission is hereby granted to copy and modify this project.
+
+Stash demo
